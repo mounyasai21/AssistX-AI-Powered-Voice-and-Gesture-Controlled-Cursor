@@ -66,13 +66,13 @@ Increase volume
 
 Take screenshot
 
-📸 Screenshots
+#📸 Screenshots
 Screenshots are in output screenshot folder above
 
-🎥 Demo Video
+#🎥 Demo Video
 Demo videos are in Deployment(Output) videos folder
 
-📊 Results
+#📊 Results
 Accurate gesture recognition
 
 Real-time response
@@ -81,7 +81,7 @@ Smooth cursor control
 
 Efficient voice commands
 
-🔮 Future Scope
+#🔮 Future Scope
 Mobile version
 
 Multi-language voice support
